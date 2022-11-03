@@ -1,0 +1,134 @@
+[
+    {
+        "path": "flags/flag_100.PNG",
+        "wait": 3
+    },
+    {
+        "path": "flags/flag_101.PNG",
+        "wait": 3
+    },
+    {
+        "path": "flags/flag_102.PNG",
+        "wait": 3
+    },
+    {
+        "path": "flags/flag_103.PNG",
+        "wait": 5
+    },
+    {
+        "path": "flags/flag_104.PNG",
+        "wait": 10
+    },
+    {
+        "path": "flags/flag_105.PNG",
+        "wait": 10
+    },
+    {
+        "path": "flags/flag_106.PNG",
+        "wait": 3
+    },
+    {
+        "path": "flags/flag_107.PNG",
+        "wait": 7
+    },
+    {
+        "path": "flags/flag_108.PNG",
+        "wait": 7
+    },
+    {
+        "path": "flags/flag_109.PNG",
+        "wait": 4
+    },
+    {
+        "path": "flags/flag_110.PNG",
+        "wait": 6
+    },
+    {
+        "path": "flags/flag_111.PNG",
+        "wait": 4
+    },
+    {
+        "path": "flags/flag_112.PNG",
+        "wait": 5
+    },
+    {
+        "path": "flags/flag_113.PNG",
+        "wait": 5
+    },
+    {
+        "path": "flags/flag_114.PNG",
+        "wait": 4
+    },
+    {
+        "path": "flags/flag_115.PNG",
+        "wait": 4
+    },
+    {
+        "path": "flags/flag_116.PNG",
+        "wait": 7
+    },
+    {
+        "path": "flags/flag_117.PNG",
+        "wait": 4
+    },
+    {
+        "path": "flags/flag_118.PNG",
+        "wait": 7
+    },
+    {
+        "path": "flags/flag_119.PNG",
+        "wait": 3
+    },
+    {
+        "path": "flags/flag_120.PNG",
+        "wait": 4
+    },
+    {
+        "path": "flags/flag_121.PNG",
+        "wait": 4
+    },
+    {
+        "path": "flags/flag_122.PNG",
+        "wait": 6
+    },
+    {
+        "path": "flags/flag_123.PNG",
+        "wait": 6
+    },
+    {
+        "path": "flags/flag_124.PNG",
+        "wait": 5
+    },
+    {
+        "path": "flags/flag_125.PNG",
+        "wait": 5
+    },
+    {
+        "path": "flags/flag_126.PNG",
+        "wait": 9
+    },
+    {
+        "path": "flags/flag_127.PNG",
+        "wait": 10
+    },
+    {
+        "path": "flags/flag_128.PNG",
+        "wait": 5
+    },
+    {
+        "path": "flags/flag_129.PNG",
+        "wait": 7
+    },
+    {
+        "path": "flags/flag_130.PNG",
+        "wait": 6
+    },
+    {
+        "path": "flags/flag_131.PNG",
+        "wait": 8
+    },
+    {
+        "path": "flags/flag_132.PNG",
+        "wait": 10
+    }
+]
